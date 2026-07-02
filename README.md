@@ -51,18 +51,23 @@ I'm a Software Engineer specializing in **AI-powered industrial vision systems**
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=arslanzafar-pro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Arslan's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arslanzafar-pro&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="165" src="profile/stats.svg" alt="Arslan's GitHub stats" />
+<img height="165" src="profile/top-langs.svg" alt="Top languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arslanzafar-pro&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+<img src="https://streak-stats.demolab.com/?user=arslanzafar-pro&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 
 </div>
 
 ---
 
 ### 🏆 GitHub Trophies
+
+<!-- This card is served live from github-profile-trophy.vercel.app. It's a separate
+     service from github-readme-stats, so it isn't guaranteed to be affected by the
+     same outage, but it can have its own rate-limit blips. If it stays broken for
+     more than a day or two, remove it or self-host it (see the project's README). -->
 
 <div align="center">
 
@@ -88,7 +93,7 @@ I'm a Software Engineer specializing in **AI-powered industrial vision systems**
 <div align="center">
 
 <a href="https://github.com/arslanzafar-pro/Detecting-And-Highlighting-Terminals-On-Digital-Templates-Using-Artificial-Intelligence">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arslanzafar-pro&repo=Detecting-And-Highlighting-Terminals-On-Digital-Templates-Using-Artificial-Intelligence&theme=tokyonight&hide_border=true" alt="Detecting and Highlighting Terminals on Digital Templates Using AI"/>
+  <img src="profile/pin.svg" alt="Detecting and Highlighting Terminals on Digital Templates Using AI"/>
 </a>
 
 **Detecting & Highlighting Terminals on Digital Templates Using AI** — a hybrid YOLOv5 + Tesseract OCR + OpenCV pipeline that automatically finds missing components on digital manufacturing templates. Built for my Master's thesis; full write-up and code in the repo above.
